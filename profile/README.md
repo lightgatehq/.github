@@ -25,7 +25,7 @@ Attest Protocol's code lives in the [daccred](https://github.com/daccred) organi
 
 ## History
 
-Lightgate grew out of [Daccred](https://github.com/daccred) — decentralized accreditation — which became Attest Protocol and expanded into the company you're looking at. Along the way: Public Goods Award at the Solana Radar Hackathon, and Stellar Community Fund award recipient for attestation infrastructure.
+Lightgate grew out of [Daccred](https://github.com/daccred) — decentralized accreditation — which became Attest Protocol and expanded into the company you're looking at. Along the way: [Public Goods Award at the Solana Radar Hackathon](https://x.com/solana/status/1856362113561964676), and [Stellar Community Fund award recipient](https://communityfund.stellar.org/submissions/recIHN98Ja7MMb4DX) for attestation infrastructure.
 
 ---
 
