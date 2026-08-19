@@ -1,12 +1,12 @@
 <div align="center">
 
-### Lightgate
+![Lightgate](./banner.svg)
 
 **Blockchains made financial state public, but not understandable.**
 
 Lightgate transforms raw onchain state into trusted financial context.
 
-[attest.so](https://attest.so) · [Attest Docs](https://docs.attest.so) · [orionhq.run](https://orionhq.run) · [Orion Docs](https://orionhq.run/docs/guides)
+**[orionhq.run](https://orionhq.run)** · [Orion Docs](https://orionhq.run/docs/guides) · **[attestprotocol.org](https://attestprotocol.org)** · [Attest Docs](https://docs.attest.so)
 
 </div>
 
@@ -18,8 +18,8 @@ Financial systems don't lack rails — they lack legibility. Every balance, posi
 
 | Product | What it is |
 |---------|------------|
-| [Attest Protocol](https://attest.so) | The trust graph — identity, reputation, claims, and attestations onchain. [Docs](https://docs.attest.so) |
-| [Orion](https://orionhq.run) | The financial graph — a DeFi positions and activity API, starting with Stellar. [Docs](https://orionhq.run/docs/guides) |
+| [Attest Protocol](https://attestprotocol.org) | The trust graph — identity, reputation, claims, and attestations onchain. [Docs](https://docs.attest.so) · [Sandbox](https://sandbox.attest.so) · [Explorer](https://stellar.attestprotocol.org) · [Code](https://github.com/daccred/attest.so) |
+| [Orion](https://orionhq.run) | The financial graph — a DeFi positions and activity API, starting with Stellar. [Docs](https://orionhq.run/docs/guides) · [API Reference](https://orionhq.run/docs/api) |
 
 Attest Protocol's code lives in the [daccred](https://github.com/daccred) organization; Orion's repositories are moving here as they open up.
 
@@ -33,6 +33,6 @@ Lightgate grew out of [Daccred](https://github.com/daccred) — decentralized ac
 
 **Make markets legible.**
 
-[Attest](https://attest.so) · [Orion](https://orionhq.run)
+[Attest](https://attestprotocol.org) · [Orion](https://orionhq.run)
 
 </div>
