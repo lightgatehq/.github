@@ -32,7 +32,7 @@ Get a key and explore the full surface at [orionhq.run/docs/api](https://orionhq
 
 ## History
 
-Lightgate grew out of Daccred (decentralized accreditation), which became Attest Protocol and expanded into the company you're looking at. Along the way: [Public Goods Award at the Solana Radar Hackathon](https://x.com/solana/status/1856362113561964676), and Stellar Community Fund award recipient for attestation infrastructure.
+Lightgate builds on several years of shipping attestation and financial-data infrastructure on open networks.
 
 ---
 
