@@ -21,7 +21,14 @@ Financial systems don't lack rails — they lack legibility. Every balance, posi
 | [Attest Protocol](https://attestprotocol.org) | The trust graph — identity, reputation, claims, and attestations onchain. [Docs](https://docs.attest.so) · [Sandbox](https://sandbox.attest.so) · [Explorer](https://stellar.attestprotocol.org) |
 | [Orion](https://orionhq.run) | The financial graph — a DeFi positions and activity API, starting with Stellar. [Docs](https://orionhq.run/docs/guides) · [API Reference](https://orionhq.run/docs/api) |
 
-Repositories open up here as products mature.
+One call against Orion looks like this — complete DeFi positions for any Stellar address, pinned to an exact ledger:
+
+```bash
+curl https://query.orionhq.run/v1/users/G.../positions \
+  -H "x-orion-api-key: $ORION_KEY"
+```
+
+Get a key and explore the full surface at [orionhq.run/docs/api](https://orionhq.run/docs/api). Repositories open up here as products mature.
 
 ## History
 
