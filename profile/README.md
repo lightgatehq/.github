@@ -18,14 +18,14 @@ Financial systems don't lack rails — they lack legibility. Every balance, posi
 
 | Product | What it is |
 |---------|------------|
-| [Attest Protocol](https://attestprotocol.org) | The trust graph — identity, reputation, claims, and attestations onchain. [Docs](https://docs.attest.so) · [Sandbox](https://sandbox.attest.so) · [Explorer](https://stellar.attestprotocol.org) · [Code](https://github.com/daccred/attest.so) |
+| [Attest Protocol](https://attestprotocol.org) | The trust graph — identity, reputation, claims, and attestations onchain. [Docs](https://docs.attest.so) · [Sandbox](https://sandbox.attest.so) · [Explorer](https://stellar.attestprotocol.org) |
 | [Orion](https://orionhq.run) | The financial graph — a DeFi positions and activity API, starting with Stellar. [Docs](https://orionhq.run/docs/guides) · [API Reference](https://orionhq.run/docs/api) |
 
-Attest Protocol's code lives in the [daccred](https://github.com/daccred) organization; Orion's repositories are moving here as they open up.
+Repositories open up here as products mature.
 
 ## History
 
-Lightgate grew out of [Daccred](https://github.com/daccred) — decentralized accreditation — which became Attest Protocol and expanded into the company you're looking at. Along the way: [Public Goods Award at the Solana Radar Hackathon](https://x.com/solana/status/1856362113561964676), and [Stellar Community Fund award recipient](https://communityfund.stellar.org/submissions/recIHN98Ja7MMb4DX) for attestation infrastructure.
+Lightgate grew out of Daccred — decentralized accreditation — which became Attest Protocol and expanded into the company you're looking at. Along the way: [Public Goods Award at the Solana Radar Hackathon](https://x.com/solana/status/1856362113561964676), and [Stellar Community Fund award recipient](https://communityfund.stellar.org/submissions/recIHN98Ja7MMb4DX) for attestation infrastructure.
 
 ---
 
