@@ -1,6 +1,6 @@
 <div align="center">
 
-![Lightgate](./banner.svg)
+![Lightgate](./banner.png)
 
 **Blockchains made financial state public, but not understandable.**
 
